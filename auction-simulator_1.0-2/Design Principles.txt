@@ -1,0 +1,17 @@
+#Design Principles
+1.IOC
+2.sINGLE rEPOSNISBILIT pRICNIPLE
+3.delegation prnciple
+4.Prefer Composition over Inheritance
+5.Program for Interface
+
+
+
+#Design Pattern
+1.Chain OF rESPONISBITY
+2.Strategy Pattter : InputfileLoadAlgos-txt,xml,db etx
+3.Adater pattern: map-List
+
+
+#Algorithms
+maxSearch Algo

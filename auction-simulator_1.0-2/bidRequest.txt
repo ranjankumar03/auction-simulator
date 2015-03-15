@@ -1,0 +1,11 @@
+20150302
+product,bidder,startBid,maxBid,increment
+Bicycle,John,50,79,3
+Bicycle,Marina,60,82,2
+Bicycle,Zucker,56,85,5
+Scooter,John,700,725,2
+Scooter,Zucker,599,725,15
+Scooter,Amanda,625,725,8
+Boat,John,2500,3000,500
+Boat,Marina,2800,3100,201
+Boat,Zucker,2501,3200,247
