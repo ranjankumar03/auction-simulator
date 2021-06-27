@@ -46,9 +46,7 @@ public class AuctionSimulatorControllerImpl implements IController {
 	 */
 	@Override
 	public void triggetAuctionSimulator(BidRequestContext context) {
-		// TODO Auto-generated method stub
-
-		System.out.println("Inside Controller..");
+		
 		log.info("Inside Controller....");
 		// load cache
 		
